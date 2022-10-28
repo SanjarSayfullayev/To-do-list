@@ -1,0 +1,35 @@
+.bg{
+    background-color: #999;
+}
+.form_group{
+    padding: 20px 30px;
+    margin: 0 auto;
+    width: 70%;
+}
+.form_group input{
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    outline: none;
+    border-radius: 7px;
+    box-shadow: 0px 1px 3px black;  
+}
+.text{
+    text-align: center;
+    padding: 5px 0;
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+}
+button{
+    margin-top: 10px;
+}
+table{
+    margin: 20px auto;
+    width: 100%;
+}
+.bg_color{
+    background-color: rgba(0, 255, 255, 0.207);
+}
+table tbody{
+    margin-bottom: 10px;
+}   
